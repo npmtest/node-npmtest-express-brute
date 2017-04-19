@@ -1,4 +1,7 @@
-# test coverage for  [express-brute (v1.0.1)](https://github.com/AdamPflug/express-brute#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-brute.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-brute) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-brute.svg)](https://travis-ci.org/npmtest/node-npmtest-express-brute)
+# npmtest-express-brute
+
+#### basic test coverage for  [express-brute (v1.0.1)](https://github.com/AdamPflug/express-brute#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-brute.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-brute) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-brute.svg)](https://travis-ci.org/npmtest/node-npmtest-express-brute)
+
 #### A brute-force protection middleware for express routes that rate limits incoming requests
 
 [![NPM](https://nodei.co/npm/express-brute.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-brute)
